@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/amigoldenberg/programming/android/FunDapter-gradle/FunDapter/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">FunDapter-gradle</string>
+
+</resources>

@@ -1,0 +1,27 @@
+-keep class puninar.view.ccms.Map.TheApp {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class puninar.view.ccms.Activity.LoginActivity { <init>(); }
+-keep class puninar.view.ccms.Activity.MenuUtama { <init>(); }
+-keep class puninar.view.ccms.Activity.InputData { <init>(); }
+-keep class puninar.view.ccms.Activity.ListDetail { <init>(); }
+-keep class puninar.view.ccms.Activity.ListviewResult { <init>(); }
+-keep class puninar.view.ccms.Activity.SpinnerActivity { <init>(); }
+-keep class puninar.view.ccms.Activity.MapsActivity { <init>(); }
+-keep class puninar.view.ccms.Map.MapMainActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

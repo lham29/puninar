@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main4.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_main4.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_transparant_header.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\map_transparant_header.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_fragment.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_title_view.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_gradient.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\header_gradient.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_done_button.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main3.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_main3.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_simplelist.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\map_simplelist.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_tiga.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\menu_tiga.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\product_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_tes.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\spinner_tes.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_detail.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\listview_detail.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_detail_list.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_detail_list.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_map.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\show_map.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_year_label_text_view.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_listview.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_listview.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_result.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\listview_result.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_custom.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\menu_custom.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_main.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\list_main.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_krani.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\menu_krani.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main5.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_main5.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main2.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_dua.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\menu_dua.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_main.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\src\\main\\res\\layout\\map_main.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mdtp_time_header_label.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\2.3.0\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Puninar Logistic\\Andro\\puninar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    }
+]

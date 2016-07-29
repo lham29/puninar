@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="puninar.view.ccms.Activity.InputData">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:background="#fff">
+
+        <!--  Header  Starts-->
+        <LinearLayout android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/puni"
+            android:paddingTop="5dip"
+            android:paddingBottom="5dip"
+            android:orientation="horizontal">
+            <!-- Logo Start-->
+
+            <!-- Logo Ends -->
+        </LinearLayout>
+        <!--  Header Ends -->
+        <!-- Footer Start -->
+        <LinearLayout android:id="@+id/footer"
+            android:layout_width="fill_parent"
+            android:layout_height="90dip"
+            android:background="@drawable/bglagi"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+        </LinearLayout>
+        <!-- Footer Ends -->
+        <!-- Registration Form -->
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dip"
+            android:layout_below="@id/header">
+            <!-- Order Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Order #"/>
+            <EditText android:id="@+id/reg_order"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:singleLine="true"
+                android:layout_marginBottom="20dip"/>
+
+            <!--  Date & Time Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Start Date"/>
+
+            <EditText android:id="@+id/reg_date"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:hint="double tap to input"
+                android:singleLine="true"
+                android:layout_marginBottom="20dip"/>
+
+            <!--  Time Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Start Time"/>
+
+            <EditText android:id="@+id/reg_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="double tap to input"
+                android:layout_marginTop="5dip"
+                android:singleLine="true"
+                android:layout_marginBottom="20dip"/>
+
+            <!-- MBL Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="MBL #"/>
+            <EditText android:id="@+id/reg_mbl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:singleLine="true"
+                android:layout_marginBottom="20dip"/>
+            <!--  HBL Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="HBL #"/>
+            <EditText android:id="@+id/reg_hbl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dip"
+                android:singleLine="true"
+                android:hint="only number allowed"
+                android:maxLength="5"
+                android:layout_marginBottom="20dip"/>
+            <!-- AJU Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="AJU"/>
+            <EditText android:id="@+id/reg_aju"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+
+            <!-- CUST Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="CUST"/>
+            <EditText android:id="@+id/reg_cust"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+
+            <!-- Process Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Process"/>
+            <EditText android:id="@+id/reg_process"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+            <!-- CNTR Password Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="CNTR"/>
+            <EditText android:id="@+id/reg_cntr"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+            <!-- Checker Name Label -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Checker Name"/>
+            <EditText android:id="@+id/reg_checkname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+
+            <!-- Doc photo upload -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Document Photo Upload:"
+                android:layout_marginBottom="5dip"/>
+            <!-- Upload Foto 1 -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Maximum Upload 5 Images"
+                android:layout_marginLeft="10dp"
+                android:textSize="10dp"/>
+
+            <android.support.design.widget.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/AppTheme.AppBarOverlay">
+            </android.support.design.widget.AppBarLayout>
+
+            <include layout="@layout/content_main" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/scrollView"
+                android:layout_below="@+id/ivGallery"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" >
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/linearMain"></LinearLayout>
+            </ScrollView>
+
+
+            <!-- Problems -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Problems"
+                android:layout_marginTop="10dip"/>
+            <EditText android:id="@+id/reg_problems"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+
+            <!-- Remarks -->
+            <TextView android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#372c24"
+                android:text="Remarks"/>
+            <EditText android:id="@+id/reg_remarks"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_marginTop="5dip"
+                android:layout_marginBottom="20dip"/>
+            <!-- Register Button -->
+            <Button android:id="@+id/btnRegister"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dip"
+                android:textColor="#FFDDDDDD"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:gravity="center|center_vertical"
+                android:background="@drawable/button_on_off"
+                android:layout_weight="1"
+                android:text="Register New Account"/>
+            <!-- Link to Login Screen -->
+            <TextView android:id="@+id/link_to_login"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dip"
+                android:layout_marginBottom="40dip"
+                android:text=""
+                android:gravity="center"
+                android:textSize="20dip"
+                android:textColor="#025f7c"/>
+
+
+        </TableLayout>
+        <!-- Registration Form Ends -->
+
+    </RelativeLayout>
+
+</ScrollView>
